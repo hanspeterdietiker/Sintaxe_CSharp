@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeCSharp", "SintaxeCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooCSharp", "PooCSharp\PooCSharp.csproj", "{0AB96E14-DA6A-42DE-8DD7-2EC6E3E149FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{B92BFBA7-14BD-46C5-9142-139A90C5149F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0AB96E14-DA6A-42DE-8DD7-2EC6E3E149FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB96E14-DA6A-42DE-8DD7-2EC6E3E149FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB96E14-DA6A-42DE-8DD7-2EC6E3E149FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92BFBA7-14BD-46C5-9142-139A90C5149F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92BFBA7-14BD-46C5-9142-139A90C5149F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92BFBA7-14BD-46C5-9142-139A90C5149F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92BFBA7-14BD-46C5-9142-139A90C5149F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

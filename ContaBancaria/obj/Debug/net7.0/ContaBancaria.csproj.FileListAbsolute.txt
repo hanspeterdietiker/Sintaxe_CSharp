@@ -1,0 +1,15 @@
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.AssemblyReference.cache
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+D:\ProjectsRider\PrimeiroProjeto\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll

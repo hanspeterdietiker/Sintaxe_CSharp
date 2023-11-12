@@ -5,6 +5,7 @@
     {
         public string Nome;
         public double Preco;
+        public int Quantidade;
 
         public Produto(string nome, double preco, int quantidade)
         {
@@ -13,7 +14,6 @@
             Quantidade = quantidade;
         }
 
-        public int Quantidade;
 
         public double ValorTotalEmEstoque()
         {
