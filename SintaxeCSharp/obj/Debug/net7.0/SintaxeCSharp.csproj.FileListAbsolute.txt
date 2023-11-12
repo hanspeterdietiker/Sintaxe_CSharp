@@ -1,0 +1,15 @@
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\bin\Debug\net7.0\SintaxeCSharp.exe
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\bin\Debug\net7.0\SintaxeCSharp.deps.json
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\bin\Debug\net7.0\SintaxeCSharp.runtimeconfig.json
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\bin\Debug\net7.0\SintaxeCSharp.dll
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\bin\Debug\net7.0\SintaxeCSharp.pdb
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.csproj.AssemblyReference.cache
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.AssemblyInfoInputs.cache
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.AssemblyInfo.cs
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.csproj.CoreCompileInputs.cache
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.dll
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\refint\SintaxeCSharp.dll
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.pdb
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\SintaxeCSharp.genruntimeconfig.cache
+D:\ProjectsRider\PrimeiroProjeto\SintaxeCSharp\obj\Debug\net7.0\ref\SintaxeCSharp.dll
