@@ -9,7 +9,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Produto p = new Produto();
+        Produto p = new Produto("Tv", 900, 10);
 
         Console.Write("Informe o Nome do Produto:");
         p.Nome = Console.ReadLine();
